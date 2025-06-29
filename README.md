@@ -33,11 +33,12 @@ Grow Pro is a smart garden system that automates plant care indoors using Arduin
 ---
 
 ## 📂 File Structure
-├── main.ino # Controls logic and checks sensor input
 
-├── motor.ino # Controls servo motor behavior for watering
-
-└── README.md # You're here!
+```
+├── main.ino       # Controls logic and checks sensor input
+├── motor.ino      # Controls servo motor behavior for watering
+└── README.md      # You're here!
+```
 
 
 ---
